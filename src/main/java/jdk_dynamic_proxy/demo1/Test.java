@@ -1,8 +1,6 @@
 package jdk_dynamic_proxy.demo1;
 
-import sun.awt.datatransfer.DataTransferer;
 import sun.misc.ProxyGenerator;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
